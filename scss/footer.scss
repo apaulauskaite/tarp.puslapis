@@ -1,0 +1,38 @@
+.footer {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    padding-left: 14rem;
+    display: inline-block;
+  }
+  
+.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+}
+
+.list-inline {
+  padding-left: 0;
+  list-style: none;
+  
+}
+
+.list-inline-item {
+  display: inline-block;
+  list-style: none;
+}
+.list-inline-item:not(:last-child) {
+  margin-right: 0.5rem;
+}
+
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.figure {
+  float: right;
+  margin-left: 1550px;
+
+}

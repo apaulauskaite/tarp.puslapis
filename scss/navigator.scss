@@ -1,0 +1,64 @@
+.container {
+    padding: 10px;
+  }
+
+  .signup {
+    float: right;
+    margin-top: -5px;
+    margin-right: 150px;
+    text-decoration: none;
+    color: white;
+    border: 5px solid #007bff;
+    background-color: #007bff;
+    border-radius: 5px;
+    width: 60px;
+    text-align: center;
+  }
+
+  .business {
+    text-decoration: none;
+    color: black;
+    margin-left: 150px;
+  }
+  header {
+    background: url(../image/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+    color: white;
+  }
+  .text {
+    width: 600px;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+  }
+  .email {
+    width: 350px;
+    height: 30px;
+    position: absolute;
+    top: 42%;
+    left: 35%;
+    border-radius: 5px;
+    border: 1px solid white;
+  }
+
+  .submit {
+    width: 120px;
+    height: 32px;
+    position: absolute;
+    top: 42%;
+    left: 59%;
+    border-radius: 5px;
+    border: 1px solid #007bff;
+    background-color: #007bff;
+   
+    a {
+      text-decoration: none;
+      color: white;
+      text-align: center;
+      font-size: 15px;
+    }
+  
+  }

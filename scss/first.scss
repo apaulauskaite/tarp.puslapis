@@ -1,0 +1,21 @@
+.row2 {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    margin: 80px;
+    .one {
+     margin-right: 60px;
+    }
+  
+    .three {
+      margin-left: 60px;
+    }
+    .cube p {
+    margin-top: -15px;
+    width: 260px }
+  
+    .cube i {
+      color: #007bff;
+    }
+  }
